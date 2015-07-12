@@ -1,6 +1,6 @@
 # Some specific files for SpaRSS
-I cloned the SpaRSS reader in my other repository, but I modified quite a lot to suit a specific purpose.
-In this repository I will post some files that hopefully can be of use foor the SpaRSS project. 
+I cloned the SpaRSS reader in my other repository, but there I modified quite a lot to suit a specific purpose.
+In this repository I will post some files that hopefully can be of use for the SpaRSS project. 
 
 
 ## About the general spaRSS reader
